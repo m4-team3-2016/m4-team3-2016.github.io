@@ -1,4 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+title: M4. Video Analysis
+description: We are the group 3
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
